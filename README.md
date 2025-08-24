@@ -14,7 +14,7 @@ The player has **3 chances** to guess the correct number, with **2 hints** avail
 
 ---
 
-## ▶️ How to Run on Terminal
+## ▶️ How to Run it on Terminal
 1. Clone this repository:
    - git clone https://github.com/your-username/GuessingGame.git
    - cd guessing-game
